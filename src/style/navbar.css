@@ -1,0 +1,27 @@
+
+.navbar-item{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+   background-color: #181a1e;
+    /* #131518 */
+   padding-top: 25px !important;
+   padding-bottom: 10px;
+}
+.logo{
+    height: 50px !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+.item-right{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 30px;
+    padding-right: 30px;
+}
+.icon{
+    color:aliceblue;
+  }
